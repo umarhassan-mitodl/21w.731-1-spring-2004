@@ -1,0 +1,61 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Creative Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "4626ecf2-00c3-d73c-d5a2-6ead37837893",
+  "instructors": {
+    "content": [
+      "63d1aa03-136b-4aa8-0c42-fae122078527"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ed9a70a5-9d69-4d0e-5c7f-f07c9e0b1f4e",
+    "website": "21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004"
+  },
+  "course_title": "Writing and Experience: Exploring Self in Society",
+  "hide_download": true,
+  "course_description": "The reading and writing for this course will focus on what it means to construct a sense of self and a life narrative in relation to the larger social world of family and friends, education, media, work, and community. Readings will include nonfiction and fiction works by authors such as Maya Angelou, James Baldwin, Andre Dubus, Anne Frank, Tim O'Brien, Flannery O'Connor, George Orwell, John Steinbeck, Amy Tan, Tobias Wolff, and Alice Walker. Students will explore the craft of storytelling and the multiple ways in which one can employ the tools of fiction in crafting creative nonfiction and fiction narratives.\n",
+  "department_numbers": [
+    "CMS-W"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.731-1",
+  "course_image_thumbnail": {
+    "content": "44f532a2-50af-6dde-1041-8a6bf1012f62",
+    "website": "21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "site_uid": "0b2d005c-31c6-4d40-9eae-5861dc7a39a7",
+  "site_short_id": "21w.731-1-spring-2004",
+  "site_url_path": "courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004",
+  "title": "Course Metadata"
+}
