@@ -5,8 +5,6 @@ description: This file contains guidelines, instructions and suggestions for jou
 file: /courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004/6d048168ebe67e4406180381a8e4f6f8_read_write_nb.pdf
 file_size: 76487
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This file contains deadlines, workshop information and assignment i
 file: /courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004/a96f1132fe75b0302f1d444d86a52175_essay2.pdf
 file_size: 80590
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

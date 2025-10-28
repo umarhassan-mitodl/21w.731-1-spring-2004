@@ -4,8 +4,6 @@ description: This file contains instructions for essay workshop groups.
 file: /courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004/54e63e38ee43d8c3c8bb31f641a3b24b_essay2_wkshp.pdf
 file_size: 70143
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

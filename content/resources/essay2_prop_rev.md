@@ -4,8 +4,6 @@ description: This file contains peer proposal review guidelines.
 file: /courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004/3ffcf0a2f3315b5c809a45e8224472d4_essay2_prop_rev.pdf
 file_size: 50337
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
