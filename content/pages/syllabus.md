@@ -97,9 +97,9 @@ In class, we'll discuss how to acknowledge sources and how to avoid plagiarism. 
 
 ## Writing Center/Writing Resources
 
-[The Writing and Communication Center](http://web.mit.edu/writing/NEW/), also offers consultations on student writing. You may visit the Writing Center at any point in the writing process: prewriting, drafting or revising a piece of writing. In addition, The Writing and Communication Center offers advice on preparing oral presentations. It's best to schedule an appointment by calling the Center.
+{{% resource_link "25fa748f-7aa3-4596-a7da-e686eaa34dea" "The Writing and Communication Center" %}}, also offers consultations on student writing. You may visit the Writing Center at any point in the writing process: prewriting, drafting or revising a piece of writing. In addition, The Writing and Communication Center offers advice on preparing oral presentations. It's best to schedule an appointment by calling the Center.
 
-The [Program in Writing and Humanistic Studies](https://dspace.mit.edu/handle/1721.1/39101) Web site also has information on a range of topics of interest to writing students: other writing classes, program advising, requirements for majors, minors and concentrators, and lectures and readings by authors on campus. Each spring the Program awards the Ilona Karmel Writing Prizes for student writers. More information on the Karmel prizes at the Program office.
+The {{% resource_link "76376d87-060d-48a2-a5cb-df00e421e36e" "Program in Writing and Humanistic Studies" %}} Web site also has information on a range of topics of interest to writing students: other writing classes, program advising, requirements for majors, minors and concentrators, and lectures and readings by authors on campus. Each spring the Program awards the Ilona Karmel Writing Prizes for student writers. More information on the Karmel prizes at the Program office.
 
 ## Writing Portfolio
 
@@ -110,7 +110,7 @@ Please keep all four assignments (first versions and revisions) and my comments 
 Students are strongly encouraged to craft their essays and stories with a goal of publication. During the semester we will discuss strategies for planning for publication. Some MIT student publications include:
 
 - *Counterpoint* - The main college campus magazine at MIT and Wellesley, published eight times a year. Since 1991, this magazine has served both academic communities - a combined population of 15,000 - addressing topics from a broad spectrum of social, political, and cultural issues.
-- [*The Tech*](https://thetech.com/) - MIT's newspaper.
+- {{% resource_link "e0d9ba04-e186-4e69-9134-33008e02e716" "*The Tech*" %}} - MIT's newspaper.
 - *Rune* - A biannual journal of arts and letters containing original work by MIT students, staff, faculty, and affiliates.
 
 The publication websites will include information on submission guidelines. Students can also browse through back issues of *Counterpoint* and *Rune* in the instructor's office.
